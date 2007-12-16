@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="1" type="RESOURCE"/>
+  <resource name="zz" type="RESOURCE"/>
+  <resource name="돌" type="RESOURCE"/>
+  <resource name="1_2" type="RESOURCE"/>
+  <resource name="대장" type="RESOURCE"/>
+  <resource name="보여1" type="RESOURCE"/>
+  <resource name="변수그려" type="RESOURCE"/>
+  <resource name="검" type="RESOURCE"/>
+  <resource name="진검" type="RESOURCE"/>
+  <resource name="실행" type="RESOURCE"/>
+  <resource name="검공격" type="RESOURCE"/>
+  <resource name="경계선1" type="RESOURCE"/>
+  <resource name="좀비아1" type="RESOURCE"/>
+  <resource name="1_3" type="RESOURCE"/>
+  <resource name="피" type="RESOURCE"/>
+  <resource name="진피" type="RESOURCE"/>
+  <resource name="좀2" type="RESOURCE"/>
+  <resource name="총" type="RESOURCE"/>
+  <resource name="알" type="RESOURCE"/>
+  <resource name="무기얻다1" type="RESOURCE"/>
+  <resource name="실행2" type="RESOURCE"/>
+</resources>

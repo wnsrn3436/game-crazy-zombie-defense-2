@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="1" type="RESOURCE"/>
+  <resource name="캐릭" type="RESOURCE"/>
+  <resource name="돌" type="RESOURCE"/>
+  <resource name="보초" type="RESOURCE"/>
+  <resource name="대장" type="RESOURCE"/>
+  <resource name="검" type="RESOURCE"/>
+  <resource name="진검" type="RESOURCE"/>
+  <resource name="검공격" type="RESOURCE"/>
+  <resource name="좀비1" type="RESOURCE"/>
+  <resource name="경계" type="RESOURCE"/>
+  <resource name="피" type="RESOURCE"/>
+  <resource name="진피" type="RESOURCE"/>
+  <resource name="좀2" type="RESOURCE"/>
+  <resource name="총" type="RESOURCE"/>
+  <resource name="알" type="RESOURCE"/>
+</resources>
